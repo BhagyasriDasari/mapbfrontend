@@ -51,7 +51,7 @@ const MapContainer = () => {
       </select>
       
       <LoadScript
-        googleMapsApiKey="AIzaSyCjqFTzy-Z7KP5FmJ_E3vd4Vs5mdspMR7M" // Replace with your API key
+        googleMapsApiKey="*********************************"
         libraries={['places']}
       >
         <GoogleMap
